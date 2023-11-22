@@ -3,9 +3,9 @@
 pip install streamlit pandas matplotlib seaborn
 # Run streamlit app
 - Menjalankan di local
-'''
+```
 streamlit run ..\dashboard_bike_sharing\dashboard_bike_sharing.py
-'''
+```
   (buka melalui command prompt)
 - Menjalankan di browser silahkan klik tautan berikut
 [streamlit run dashboard_bike_sharing.py](https://dashboardbike-sharing-rrcpcsmsxya3f2jvmvpzu4.streamlit.app/)https://dashboardbike-sharing-rrcpcsmsxya3f2jvmvpzu4.streamlit.app/
