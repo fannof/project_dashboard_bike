@@ -79,4 +79,5 @@ elif analisis_option == 'Pengaruh Cuaca':
     plt.title('Pengaruh Cuaca Terhadap Peminjaman Sepeda')
     st.pyplot()
 
+st.set_option('deprecation.showPyplotGlobalUse', False)
 st.caption('Copyright (c) Dicoding 2023')
