@@ -1,4 +1,4 @@
-# Bike-sharing Dashboard 
+# Bike-sharing Dashboard
 # Setup environment
 ```
 pip install streamlit pandas matplotlib seaborn
