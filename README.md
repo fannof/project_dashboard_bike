@@ -16,3 +16,4 @@ streamlit run ..\dashboard_bike_sharing\dashboard_bike_sharing.py
 ![Screenshot (132)](https://github.com/fannof/dashboard_bike-sharing/assets/99071605/ce00cc9b-8ed9-468a-85cb-31f8c8d1469c)
 ![Screenshot (130)](https://github.com/fannof/dashboard_bike-sharing/assets/99071605/5cd64ec8-8d8a-4a00-bfd5-7e8a77e7c9fa)
 
+
